@@ -9,4 +9,5 @@ public class CalculatorVersionTwoApplication {
     public static void main(String[] args) {
         SpringApplication.run(CalculatorVersionTwoApplication.class, args);
     }
+
 }
